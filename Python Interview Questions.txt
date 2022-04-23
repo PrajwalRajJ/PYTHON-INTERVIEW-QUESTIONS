@@ -1,0 +1,102 @@
+DATA TYPES
+1.What are the built-in types available in Python?
+2.What is the principal difference between a list and the tuple?
+3.What is a string in Python?
+4.What is slicing in Python?
+5.What is %s in Python?
+6.Is a string immutable or mutable in Python?
+7.How many basic types of functions are available in Python?
+8.What is the purpose of “end” in Python?
+9.What does the len() function do in Python?
+10.What is whitespace in Python?
+11.What does the join method do in Python?
+12.What does the Title() method do in Python?
+13.What is a tuple in Python?
+14.What is a dictionary in Python programming?
+15.What is the set object in Python?
+16.What is the use of the dictionary in Python?
+17.Is Python list a linked list?
+18.How do you create a dictionary in Python?
+19.How do you read from a dictionary in Python?
+20.How do you add elements to a dictionary in Python?
+
+OPERATORS
+1.What are the types of operators in Python?
+2.What does the percent operator do in Python?
+3.Should you use the == operator to determine whether objects of type float are equal?
+4. What is the order of precedence in python?
+5.What are Assignment Operators?
+6.Define Bitwise Operators?
+7.What are Identity Operators?
+8.List out the Arithmethic Operator?
+9.Define Relational(comparison) Operators?
+10.List out the Logical Operators?
+
+CONDITIONAL STATEMENTS and LOOPS
+1. What is a built-in function that Python uses to iterate over a number sequence?
+2. What are the optional statements possible inside a try-except block in Python?
+3. When should you use the “break” in Python?
+4. Write a Python program to construct the following pattern, using a nested for loop.
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+
+5.Write a Python program that accepts a word from the user and reverse it?
+6.Write a Python program to create the multiplication table (from 1 to 10) of a number?
+7.What are the conditional statements used in Python?
+8.What is a conditional statement in Python give an example?
+9.How many types of loops are there in Python?
+10.When should we use nested if statements in Python?
+11.What happens if we skip indentation in Python?
+12.What type of iteration a while loop in Python is used?
+13.What we get if the condition in a loop is false in the first step itself?
+14.How do you stop a while loop in Python?
+15.How do you declare a while loop in Python?
+16.Which function is used to check range in a loop?
+17.Which part in loop evaluates the conditions?
+18.What keyword is used for looping?
+19.What keyword is used to skip back to the beginning of a loop?
+20.For loops are used to loop over_________?
+
+
+FUNCTIONS
+1.What are the parameters and arguments?
+2.What are the different types of arguments in Python?
+3.What is the lambda function?
+4.What’s the difference between normal function and lambda function?
+5.What is the pass keyword used for?
+6.What is a recursive function?
+7. What is a function in Python programming?
+8. How do we write a function in Python?
+9.What is a function call or a callable object in Python?
+10.Is it mandatory for a Python function to return a value?
+11.What does the *args do in Python?
+12. What does the **kwargs do in Python?
+13.What does the chr() function do in Python?
+14.What does the ord() function do in Python?
+15.What does the ord() function do in Python?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
